@@ -9,6 +9,12 @@ Overview
 
 OpenCanary is a daemon that runs several canary versions of services that alerts when a service is (ab)used.
 
+
+Raspberry Pi Setup Instructions
+----------------
+https://xo.tc/installing-opencanary-on-a-raspberry-pi.html
+
+
 Prerequisites
 ----------------
 
